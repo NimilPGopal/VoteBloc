@@ -26,7 +26,7 @@
 
 | Home (Admin) | Login | Sub-Admin Dashboard |
 |:---:|:---:|:---:|
-| ![Home](SS/Screenshot%20(71).png) | ![Login](SS/Screenshot%20(70).png) | ![SubAdmin](SS/Screenshot%20(74).png) |
+| ![Home](screenshots/Screenshot%20(71).png) | ![Login](screenshots/Screenshot%20(70).png) | ![SubAdmin](screenshots/Screenshot%20(74).png) |
 
 ---
 
@@ -113,23 +113,15 @@ Then open your browser and visit: **http://127.0.0.1:8000/**
 VoteBloc/
 ├── votebloc(Final).zip     # Main project source code
 ├── Blocvote(Final).zip     # Additional module/variant
-├── SS/                     # Application screenshots
+├── screenshots/            # Application screenshots
 │   ├── Screenshot (69-74).png
 │   └── ...
-├── VOTEBLOC Presentation.pdf
-├── VoteBloc LinkedIn_Doc.pdf
 ├── .gitignore
 └── README.md
 ```
 
----
 
-## 📄 Documentation
 
-- 📊 [Project Presentation](VOTEBLOC%20Presentation.pdf) — Full project overview and architecture
-- 📝 [LinkedIn Document](VoteBloc%20LinkedIn_Doc.pdf) — Project summary and highlights
-
----
 
 ## 👨‍💻 Team — Executed By
 
